@@ -6,8 +6,11 @@ A lightweight, accurate, and responsive stopwatch built using **HTML**, **CSS**,
 
 ## 📸 Preview
 
-![Stopwatch Preview](preview.png)  
-<!-- Replace with your own image or GitHub-hosted screenshot -->
+
+https://github.com/user-attachments/assets/a345168e-5290-496f-b10b-b4fa4592f10c
+
+
+
 
 ---
 
@@ -28,5 +31,4 @@ A lightweight, accurate, and responsive stopwatch built using **HTML**, **CSS**,
 
 ---
 
-## 📁 Project Structure
 
